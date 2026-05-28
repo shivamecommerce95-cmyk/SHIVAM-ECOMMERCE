@@ -1,0 +1,6 @@
+{
+  "name": "SHIVAM ECOMMERCE",
+  "description": "Shivam Ecommerce is a premium luxury marketplace for high-quality clothes and mobile accessories, featuring custom AI recommendation tools, interactive seller/admin panel modules, and automated order tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
